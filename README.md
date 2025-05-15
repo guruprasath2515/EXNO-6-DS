@@ -227,12 +227,5 @@ hm=sns.heatmap(data=data)
 
 # Result:
  The program has been executed successfully.
-s wherever necessary.
 
-STEP 5:Include Necessary parameters in each functions.
 
-# Coding and Output:
- Include the necessary coding and corresponding screenshots
-
-# Result:
- Include your result here
